@@ -6,9 +6,9 @@
 
 - šis laikų tvarkaraštis iš esmės sudaromas nurodant kada prasideda pamokos (pvz.: 9 val) ir po to nurodant pertraukų trukmes
 
-- pamokų trukmė visada yra vienodą ir ją taip pat norėtume galėti reguliuoti, bet pagal nutylėjimą, ji trunka 45min
+- pamokų trukmė visada yra vienoda ir ją taip pat norėtume galėti reguliuoti, bet pagal nutylėjimą, ji trunka 45min
 
-- reikalinga, galėti išspausdinti visą tvarkaraštį maždaug tokiu formatu:
+- reikalinga galėti išspausdinti visą tvarkaraštį maždaug tokiu formatu:
 
 ```
 1. 9:00 - 9:45
@@ -16,6 +16,6 @@
 3: 10:55 - 11:40
 ```
 
-- būtų labai gerai, jei visi jūsų sukurti metodai ir kintamieji būtų lengvai supranti, t.y. iš pavadinimo pavyksta suprasti ką turi daryti ir ką iš tiesų daro 👍
+- būtų labai gerai, jei visi jūsų sukurti metodai ir kintamieji būtų lengvai suprantami, t.y. iš pavadinimo pavyksta suprasti ką turi daryti ir ką iš tiesų daro 👍
 
 - metodų pavadinimai ir visas kodas - angliškas
